@@ -1,0 +1,101 @@
+order,movie_imdb_id,movie_name,gross
+1,454921,The Pursuit of Happyness,163566459
+6,381061,Casino Royale,167445960
+11,438097,Ice Age: The Meltdown,195330621
+16,366548,Happy Feet,198000317
+21,348150,Superman Returns,200081192
+26,382625,The Da Vinci Code,217536138
+31,376994,X-Men: The Last Stand,234362462
+36,317219,Cars,244082982
+41,477347,Night at the Museum,250863268
+46,383574,Pirates of the Caribbean: Dead Man's Chest,423315812
+51,416449,300,210614939
+56,952640,Alvin and the Chipmunks,217326974
+61,465234,National Treasure: Book of Secrets,219964115
+66,440963,The Bourne Ultimatum,227471070
+71,480249,I Am Legend,256393010
+76,373889,Harry Potter and the Order of the Phoenix,292004738
+81,449088,Pirates of the Caribbean: At World's End,309420425
+86,418279,Transformers,319246193
+91,413267,Shrek the Third,322719944
+96,413300,Spider-Man 3,336530303
+101,451079,Dr. Seuss' Horton Hears a Who!,154529439
+106,830515,Quantum of Solace,168368427
+111,479952,Madagascar: Escape 2 Africa,180010950
+116,1099212,Twilight,192769854
+121,441773,Kung Fu Panda,215434591
+126,910970,WALL-E,223808164
+131,448157,Hancock,227946274
+136,367882,Indiana Jones and the Kingdom of the Crystal Skull,317101119
+141,371746,Iron Man,318412101
+146,468569,The Dark Knight,533345358
+151,988045,Sherlock Holmes,209028679
+156,1231580,Alvin and the Chipmunks: The Squeakquel,219614612
+161,878804,The Blind Side,255959475
+166,796366,Star Trek,257730019
+171,1119646,The Hangover,277322503
+176,1049413,Up,293004164
+181,1259571,The Twilight Saga: New Moon,296623634
+186,417741,Harry Potter and the Half-Blood Prince,301959197
+191,1055369,Transformers: Revenge of the Fallen,402111870
+196,499549,Avatar,749766139
+201,398286,Tangled,200821936
+206,892769,How to Train Your Dragon,217581231
+211,892791,Shrek Forever After,238736787
+216,1323594,Despicable Me,251513985
+221,1375666,Inception,292576195
+226,926084,Harry Potter and the Deathly Hallows Part 1,295983305
+231,1325004,The Twilight Saga: Eclipse,300531751
+236,1228705,Iron Man 2,312433331
+241,1014759,Alice in Wonderland (2010),334191110
+246,435761,Toy Story 3,415004880
+251,800369,Thor,181030624
+256,1515091,Sherlock Holmes: A Game of Shadows,186848418
+261,1216475,Cars 2,191452396
+266,1229238,Mission: Impossible - Ghost Protocol,209397903
+271,1596343,Fast Five,209837675
+276,1298650,Pirates of the Caribbean: On Stranger Tides,241071802
+281,1411697,The Hangover Part II,254464305
+286,1324999,The Twilight Saga: Breaking Dawn Part 1,281287133
+291,1399103,Transformers: Dark of the Moon,352390543
+296,1201607,Harry Potter and the Deathly Hallows Part 2,381011219
+301,1277953,Madagascar 3: Europe's Most Wanted,216391482
+306,1637725,Ted,218815487
+311,1217209,Brave,237283207
+316,948470,The Amazing Spider-Man,262030663
+321,1673434,The Twilight Saga: Breaking Dawn Part 2,292324737
+326,903624,The Hobbit: An Unexpected Journey,303003568
+331,1074638,Skyfall,304360277
+336,1392170,The Hunger Games,408010692
+341,1345836,The Dark Knight Rises,448139099
+346,848228,Marvel's The Avengers,623357910
+351,1623205,Oz The Great and Powerful,234911825
+356,1905041,Fast & Furious 6,238679850
+361,1170358,The Hobbit: The Desolation of Smaug,258366855
+366,1453405,Monsters University,268492764
+371,1454468,Gravity,274092705
+376,770828,Man of Steel,291045518
+381,1690953,Despicable Me 2,368061265
+386,2294629,Frozen,400738009
+391,1300854,Iron Man 3,409013994
+396,1951264,The Hunger Games: Catching Fire,424668047
+401,2245084,Big Hero 6,222527828
+406,1877832,X-Men: Days of Future Past,233921534
+411,1587310,Maleficent,241410378
+416,2109248,Transformers: Age of Extinction,245439076
+421,2310332,The Hobbit: The Battle of the Five Armies,255119788
+426,1490017,The LEGO Movie,257760692
+431,1843866,Captain America: The Winter Soldier,259766572
+436,2015381,Guardians of the Galaxy,333176600
+441,1951265,The Hunger Games: Mockingjay - Part 1,337135885
+446,2179136,American Sniper,350126372
+451,2379713,Spectre,200074609
+456,1661199,Cinderella (2015),201151353
+461,3659388,The Martian,228433663
+466,1951266,The Hunger Games: Mockingjay - Part 2,281723902
+471,2293640,Minions,336045770
+476,2820852,Furious 7,353007020
+481,2096673,Inside Out,356461711
+486,2395427,Avengers: Age of Ultron,459005868
+491,369610,Jurassic World,652270625
+496,2488496,Star Wars: The Force Awakens,936662225
